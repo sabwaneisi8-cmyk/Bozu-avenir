@@ -1,5 +1,5 @@
 {
-  "maj": "2026-09-26",
+  "maj": "2026-09-27",
   "alertes": [
     {
       "titre": "Job d'été Province Sud : inscriptions à partir du 1er octobre",
@@ -20,6 +20,16 @@
       "lien": "https://orientation.gouv.nc/structures/epife-etablissement-provincial-pour-linsertion-formation-et-lemploi",
       "source": "RIIFE",
       "expire": "2026-11-30"
+    },
+    {
+      "titre": "RSMA : une 4e compagnie va ouvrir à Dumbéa",
+      "court": "Le RSMA ouvre une nouvelle compagnie à Dumbéa pour former plus de jeunes éloignés de l'emploi.",
+      "texte": "L'État a choisi le site de la ZAC Panda, à Dumbéa, pour une quatrième compagnie du RSMA en Nouvelle-Calédonie. Elle ouvrira par étapes, jusqu'en 2030. Objectif : plus de jeunes formés et plus de chemins vers l'emploi. Pour t'inscrire au RSMA : insertion-nc@rsma.nc.",
+      "date": "2026-09-15",
+      "lieu": "Dumbéa",
+      "lien": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-une-quatrieme-compagnie-du-rsma-implantee-a-dumbea-pour-former-la-jeunesse-eloignee-de-lemploi",
+      "source": "Outremers360",
+      "expire": "2026-10-15"
     }
   ],
   "felicitations": [
@@ -51,6 +61,14 @@
   "religion": {
     "iles": [],
     "monde": [
+      {
+        "titre": "Rencontre européenne de Taizé à Łódź",
+        "texte": "La communauté œcuménique de Taizé réunira des milliers de jeunes chrétiens de toutes les Églises à Łódź, en Pologne, du 28 décembre 2026 au 1er janvier 2027.",
+        "date": "2026-12-28",
+        "lieu": "Pologne",
+        "lien": "https://www.cath.ch/newsf/la-prochaine-rencontre-europeenne-de-taize-a-lodz-en-pologne/",
+        "source": "cath.ch"
+      },
       {
         "titre": "Journées mondiales de la jeunesse à Séoul",
         "texte": "Les prochaines JMJ, grand rassemblement catholique des jeunes, auront lieu à Séoul (Corée du Sud) du 3 au 8 août 2027. Les pré-inscriptions sont ouvertes dans de nombreux diocèses.",
