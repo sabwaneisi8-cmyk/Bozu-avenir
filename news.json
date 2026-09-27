@@ -2,6 +2,16 @@
   "maj": "2026-09-27",
   "alertes": [
     {
+      "titre": "Le RSMA-NC vient à Lifou",
+      "court": "18-25 ans : tests de sélection à l'EPIFE les 27 et 28 octobre, tournée d'information le 29 octobre au matin.",
+      "texte": "Tests de sélection à l'EPIFE le mardi 27 et le mercredi 28 octobre, de 8h à 11h30 et de 13h à 16h30. Tournée d'information le jeudi 29 octobre au matin, sur différents sites de Lifou. Pour les 18-25 ans.",
+      "date": "2026-09-27",
+      "lieu": "Lifou",
+      "lien": "https://www.rsma.nc/recrutement.html",
+      "source": "RSMA-NC",
+      "expire": "2026-10-29"
+    },
+    {
       "titre": "Job d'été Province Sud : inscriptions à partir du 1er octobre",
       "court": "Pour les 16-26 ans scolarisés ou étudiants qui résident en province Sud. Job dating le 21 octobre à Ko We Kara.",
       "texte": "Inscriptions en ligne sur le site de la Province Sud à partir du 1er octobre 2026. Travail du 16 novembre 2026 au 14 février 2027. Étudiants îliens à Nouméa : vérifiez votre éligibilité auprès de la Direction de l'Emploi et du Logement (20 30 40).",
@@ -80,6 +90,20 @@
     ]
   },
   "offres": [
+    {
+      "type": "Armée · sécurité",
+      "titre": "Le RSMA-NC à Lifou : tests de sélection et tournée d'information",
+      "employeur": "RSMA-NC",
+      "lieu": "Lifou (EPIFE)",
+      "texte": "Tu as entre 18 et 25 ans ? Tests de sélection à l'EPIFE le mardi 27 et le mercredi 28 octobre, de 8h à 11h30 et de 13h à 16h30. Le jeudi 29 octobre au matin, le RSMA passe sur différents sites de Lifou pour informer les jeunes. Pour les tests, il faut une convocation : inscris-toi dès maintenant à l'EPIFE (45 10 98) ou au RSMA (28 98 84). Le jour J, apporte ta carte d'identité et ton carnet de santé ou de vaccination.",
+      "date": "2026-09-27",
+      "limite": "2026-10-29",
+      "lien": "https://www.rsma.nc/recrutement.html",
+      "source": "RSMA-NC",
+      "expire": "2026-10-29",
+      "image": "img/rsma-lifou-2026.jpg",
+      "image_alt": "Affiche du RSMA-NC : tests de sélection à l'EPIFE de Lifou les 27 et 28 octobre, tournée d'information le 29 octobre"
+    },
     {
       "type": "Job d'été",
       "titre": "Job d'été Province Sud 2026-2027",
