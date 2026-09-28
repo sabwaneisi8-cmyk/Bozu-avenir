@@ -1,5 +1,5 @@
 {
-  "maj": "2026-09-27",
+  "maj": "2026-09-28",
   "alertes": [
     {
       "titre": "Le RSMA-NC vient à Lifou",
@@ -50,6 +50,14 @@
       "lieu": "Nouméa",
       "lien": "https://www.juvenat.nc/",
       "source": "Juvénat lycéen"
+    },
+    {
+      "titre": "Les filles du Drehu Athletico Club en Ligue des champions d'Océanie",
+      "texte": "Championnes de Nouvelle-Calédonie (D1 filles), les footballeuses du club de Lifou ont représenté le pays pour la première fois en Ligue des champions féminine d'Océanie, aux Îles Salomon. Une première historique pour le club !",
+      "date": "2026-06",
+      "lieu": "Lifou",
+      "lien": "https://www.fedcalfoot.com/Le-DREHU-ATHLETICO-CLUB-une-premiere-oceanienne-pour-grandir--Champions-League-OFC-Feminines-22-juin-12-juillet_a2022.html",
+      "source": "Fédération calédonienne de football"
     },
     {
       "titre": "61 Calédoniens rejoignent Cadres Avenir",
@@ -127,6 +135,18 @@
       "lien": "https://www.province-sud.nc/job-ete/",
       "source": "Province Sud",
       "expire": "2026-10-31"
+    },
+    {
+      "type": "Emploi",
+      "titre": "Hôte(sse) de caisse et employé(e) libre-service",
+      "employeur": "Supermarchés Casino",
+      "lieu": "Grand Nouméa",
+      "texte": "CDD pour remplacer ou renforcer les équipes, poste à prendre tout de suite. Caisse à temps partiel (bac minimum, disponible les week-ends et jours fériés) ou mise en rayon à temps plein. Débutants possibles : il faut aimer le contact avec les clients et le travail en équipe.",
+      "date": "2026-09-23",
+      "limite": "Poste à pourvoir tout de suite",
+      "lien": "https://www.job.nc/offres/hotes-de-caisse-employes-libre-service-supermarches-casino",
+      "source": "job.nc",
+      "expire": "2026-11-07"
     },
     {
       "type": "Service civique",
